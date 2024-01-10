@@ -2,6 +2,9 @@
 void main() {
 	
 	// variables
+	// on utilise principalement le var
+	// ce n'est pas obliger de mettre le type de variable
+	// dart vas l'analyser
 
 	// strings
 	// var name = "john";
@@ -14,6 +17,13 @@ void main() {
 
 	// Dynamic 'lorsque l'on ne connais pas le type de donner et que l'on ne souhaite pas tapper var'
 	dynamic y = 7;
+
+	// const and final : sont des variables que l'on vas jamais changer
+	// final à utiliser lorsque la donnée est suseptibles de changer a chaque run time de l'app
+	const String fullname = "john Elder";
+	final String nickname = "j";
+
+	// declarer une varible n'est pas l'utiliser. toujour l'utiliser par la suite
 
 	print(y);
 }
