@@ -22,6 +22,6 @@
 
 	//Dynamic
 	dynamic mydy = "pk tu parles";
-	print("dynamic: $mydy");
+	print("dynamic: $myd");
  }
 	
