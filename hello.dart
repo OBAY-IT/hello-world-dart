@@ -1,5 +1,5 @@
-void main (){
 
+void main() {
+	
 	print("hello world");
-	print(25);
 }
