@@ -1,10 +1,16 @@
 
 void main() {
 	
-	// variables
-	// on utilise principalement le var
-	// ce n'est pas obliger de mettre le type de variable
-	// dart vas l'analyser
+	/*variables def : 
+	A Dart variable is a piece of memory 
+	that can contain a data value.
+	Variables are typically used to store 
+	information which your 
+	Dart program needs to do its job. */
+
+	// - on utilise principalement le var
+	// - ce n'est pas obliger de mettre le type de variable
+	// - dart vas l'analyser
 
 	// strings
 	// var name = "john";
@@ -25,5 +31,10 @@ void main() {
 
 	// declarer une varible n'est pas l'utiliser. toujour l'utiliser par la suite
 
-	print(y);
+	//print(y);
+
+	//----------------------------------------------------
+	
+
 }
+
